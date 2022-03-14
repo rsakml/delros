@@ -27,4 +27,4 @@ Route::get('/blog-detail',[BlogDetailController::class,'blogDetail1'])->name('bl
 Route::get('/project-detail',[ProjectDetailController::class,'projectDetail1'])->name('project-detail');
 
 
-//ubah route
+//ubah route bbbb
